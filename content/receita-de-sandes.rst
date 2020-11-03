@@ -15,6 +15,7 @@ INGREDIENTES
 - manteiga q.b.
 - farinha de trigo
 - **200 ml**  de leite
+- queijo ralado para gratinar (mozzarela por exemplo)
 
 PREPARAÇÃO
 ==========
@@ -37,11 +38,14 @@ Molho Bechamel
 Montar a sandes
 ---------------
 
-1. Toste as duas fatias de pão até ficarem douradas
+4. Pre-aqueça o forno a 240 graus e toste as duas fatias de pão até ficarem
+   douradas
    
 2. Barre um dos lados de cada fatia de pão com um pouco de molho bechamel.
    
 3. Coloque o queijo e o fiambre entre as duas fatias.
 
+4. Coloque papel de alumínio num tabuleiro e coloque as sandes a gratinar de
+   15 a 20 minutos, até que o queijo esteja derretido.
 
-.. image:: {static}/images/tosta-mista.jpg
+.. image:: {static}/images/croque-monsieur.jpg
