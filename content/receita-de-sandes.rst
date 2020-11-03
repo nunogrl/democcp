@@ -48,6 +48,4 @@ Montar a sandes
 4. Coloque papel de alumínio num tabuleiro e coloque as sandes a gratinar de
    15 a 20 minutos, até que o queijo esteja derretido.
 
-
 .. image:: {static}/images/croque-monsieur.jpg
-
